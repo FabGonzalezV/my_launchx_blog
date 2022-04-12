@@ -4,7 +4,7 @@ description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
 Hola ✌️  soy el explorer **Armando Fabián González** y este es mi blog personal donde compartiré mis aventuras de Launch X.
-
+Mis espectativas son obtener las bases para ser un excelente desarrollador backend.
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
